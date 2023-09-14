@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: grey;
+  padding: 20px;
+}
+
+header a {
+  color: #fff;
+  padding: 50px;
+}
