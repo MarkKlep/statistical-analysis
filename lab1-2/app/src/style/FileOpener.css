@@ -1,0 +1,9 @@
+input[type='file'] {
+    display: none;
+}
+
+label:hover {
+    background-color: lightblue;
+    color: darkblue;
+    border: 1px solid darkblue;
+}
